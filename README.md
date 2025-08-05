@@ -5,7 +5,7 @@ n8n workflow to generate AI-powered tech news summaries via OpenAI and RSS feeds
 This automation uses **n8n** to fetch tech news from RSS feeds, summarize articles using **OpenAI’s GPT API**, and send a weekly email digest.
 
 Big Features
-- RSS feed trigger for tech news
+- RSS feed trigger for tech news (The Verge)
 - Text summarization using OpenAI API
 - Email delivery via Gmail or webhook
 - Fully customizable and modular
