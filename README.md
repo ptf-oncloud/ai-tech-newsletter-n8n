@@ -21,7 +21,8 @@ Big Features
 3. Deploy with a cron trigger for weekly delivery.
 
 # Screenshot
-![Workflow Screenshot](workflow.png)
+![Workflow Screenshot]<img width="1209" height="556" alt="image" src="https://github.com/user-attachments/assets/0b8139bd-5662-45e0-90f9-9e22f7df50f0" />
+
 
 ---
 
